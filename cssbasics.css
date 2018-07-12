@@ -1,0 +1,19 @@
+h1,ul{
+    color: blue;
+}
+.myclass{
+    background-color: aqua;
+    text-shadow: 1px 2px chartreuse;
+}
+#div1{
+    font-style: oblique;
+}
+a{
+    color: black;
+}
+a:hover{
+    color: orchid;
+}
+a:visited{
+    color: salmon;
+}
